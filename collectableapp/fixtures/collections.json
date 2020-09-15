@@ -1,0 +1,70 @@
+{
+    "collections": [
+        {
+          "id": 1,
+          "user_id": 1,
+          "title": "TsumTsums",
+          "description": "All of my TsumTsums!"
+        },
+        {
+          "user_id": 1,
+          "title": "Disney Pins",
+          "description": "Pins from the Disney Parks ✨",
+          "id": 2
+        },
+        {
+          "user_id": 2,
+          "title": "Stamps",
+          "description": "All of the Stamps",
+          "id": 3
+        },
+        {
+          "title": "Books",
+          "description": "All the books",
+          "user_id": 2,
+          "id": 4
+        },
+        {
+          "title": "Just stuff I like",
+          "description": "All the things",
+          "user_id": 2,
+          "id": 8
+        },
+        {
+          "title": "Souls",
+          "description": "They're fun!",
+          "user_id": 1,
+          "id": 9
+        },
+        {
+          "title": "All my friends",
+          "description": "There's so many in here!",
+          "user_id": 1,
+          "id": 11
+        },
+        {
+          "title": "Let's Collect Things!",
+          "description": "ALL THE THINGS!",
+          "user_id": 1,
+          "id": 12
+        },
+        {
+          "title": "Christmas Barbie Dolls",
+          "description": "Barbie Dolls from the Christmas Collection",
+          "user_id": 1,
+          "id": 17
+        },
+        {
+          "title": "Vinyl",
+          "description": "These are dope.",
+          "user_id": 1,
+          "id": 19
+        },
+        {
+          "title": "Brewery Glasses",
+          "description": "I definitely don't steal these from bars. 👍",
+          "user_id": 1,
+          "id": 20
+        }
+      ]
+}
