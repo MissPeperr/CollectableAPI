@@ -140,16 +140,6 @@
           "id": 17
         },
         {
-          "title": "test",
-          "description": "Testing",
-          "imageURL": "https://res.cloudinary.com/midstone-collectable/image/upload/v1537396912/btstpazpwt2wcfhrli5s.jpg",
-          "boughtPrice": "$0.00",
-          "soldPrice": null,
-          "isSold": false,
-          "collection_id": 8,
-          "id": 28
-        },
-        {
           "title": "Strawberry Shortcake Dumbo",
           "description": "Straight from Japan!",
           "imageURL": "https://res.cloudinary.com/midstone-collectable/image/upload/v1537450479/pbs4skyzfuoh9fgpjnhn.jpg",
