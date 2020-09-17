@@ -1,32 +1,30 @@
-{
-    "users": [
-        {
-            "model": "auth.user",
-            "pk": 1,
-            "fields": {
-                "password": "me!123",
-                "is_superuser": false,
-                "username": "me@me.com",
-                "first_name": "Madi",
-                "email": "me@me.com",
-                "is_staff": false,
-                "is_active": true,
-                "last_name": "Peper"
-            }
-        },
-        {
-            "model": "auth.user",
-            "pk": 2,
-            "fields": {
-                "password": "notme!123",
-                "is_superuser": false,
-                "username": "madi@me.com",
-                "first_name": "Not Madi",
-                "email": "madi@me.com",
-                "is_staff": false,
-                "is_active": true,
-                "last_name": "Not Peper"
-            }
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "me!123",
+            "is_superuser": false,
+            "username": "me@me.com",
+            "first_name": "Madi",
+            "email": "me@me.com",
+            "is_staff": false,
+            "is_active": true,
+            "last_name": "Peper"
         }
-    ]
-}
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "notme!123",
+            "is_superuser": false,
+            "username": "madi@me.com",
+            "first_name": "Not Madi",
+            "email": "madi@me.com",
+            "is_staff": false,
+            "is_active": true,
+            "last_name": "Not Peper"
+        }
+    }
+]
