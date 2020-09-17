@@ -1,68 +1,111 @@
 [
   {
-    "id": 1,
-    "user_id": 1,
-    "title": "TsumTsums",
-    "description": "All of my TsumTsums!"
+    "model": "collectableapp.collection",
+    "pk": 1,
+    "fields": {
+      "user_id": 1,
+      "title": "TsumTsums",
+      "description": "All of my TsumTsums!"
+    }
   },
   {
-    "user_id": 1,
-    "title": "Disney Pins",
-    "description": "Pins from the Disney Parks ✨",
-    "id": 2
+    "model": "collectableapp.collection",
+    "pk": 2,
+    "fields": {
+      "user_id": 1,
+      "title": "Disney Pins",
+      "description": "Pins from the Disney Parks ✨"
+    }
   },
   {
-    "user_id": 2,
-    "title": "Stamps",
-    "description": "All of the Stamps",
-    "id": 3
+    "model": "collectableapp.collection",
+    "pk": 3,
+    "fields": {
+      "user_id": 2,
+      "title": "Stamps",
+      "description": "All of the Stamps"
+    }
   },
   {
-    "title": "Books",
-    "description": "All the books",
-    "user_id": 2,
-    "id": 4
+    "model": "collectableapp.collection",
+    "pk": 4,
+    "fields": {
+      "title": "Books",
+      "description": "All the books",
+      "user_id": 2
+    }
   },
   {
-    "title": "Just stuff I like",
-    "description": "All the things",
-    "user_id": 2,
-    "id": 8
+    "model": "collectableapp.collection",
+    "pk": 4,
+    "fields": {
+      "title": "Just stuff I like",
+      "description": "All the things",
+      "user_id": 2
+    }
   },
   {
-    "title": "Souls",
-    "description": "They're fun!",
-    "user_id": 1,
-    "id": 9
+    "model": "collectableapp.collection",
+    "pk": 5,
+    "fields": {
+      "title": "Souls",
+      "description": "They're fun!",
+      "user_id": 1
+    }
   },
   {
-    "title": "All my friends",
-    "description": "There's so many in here!",
-    "user_id": 1,
-    "id": 11
+    "model": "collectableapp.collection",
+    "pk": 6,
+    "fields": {
+      "title": "All my friends",
+      "description": "There's so many in here!",
+      "user_id": 1,
+      "id": 11
+    }
   },
   {
-    "title": "Let's Collect Things!",
-    "description": "ALL THE THINGS!",
-    "user_id": 1,
-    "id": 12
+    "model": "collectableapp.collection",
+    "pk": 7,
+    "fields": {
+      "title": "Let's Collect Things!",
+      "description": "ALL THE THINGS!",
+      "user_id": 1
+    }
   },
   {
-    "title": "Christmas Barbie Dolls",
-    "description": "Barbie Dolls from the Christmas Collection",
-    "user_id": 1,
-    "id": 17
+    "model": "collectableapp.collection",
+    "pk": 8,
+    "fields": {
+      "title": "Christmas Barbie Dolls",
+      "description": "Barbie Dolls from the Christmas Collection",
+      "user_id": 1
+    }
   },
   {
-    "title": "Vinyl",
-    "description": "These are dope.",
-    "user_id": 1,
-    "id": 19
+    "model": "collectableapp.collection",
+    "pk": 9,
+    "fields": {
+      "title": "Vinyl",
+      "description": "These are dope.",
+      "user_id": 1
+    }
   },
   {
-    "title": "Brewery Glasses",
-    "description": "I definitely don't steal these from bars. 👍",
-    "user_id": 1,
-    "id": 20
+    "model": "collectableapp.collection",
+    "pk": 10,
+    "fields": {
+      "title": "Brewery Glasses",
+      "description": "I definitely don't steal these from bars. 👍",
+      "user_id": 1
+    }
+  },
+  {
+    "model": "collectableapp.collection",
+    "pk": 11,
+    "fields": {
+      "title": "Brewery Glasses",
+      "description": "I definitely don't steal these from bars. 👍",
+      "user_id": 2
+    }
   }
 ]
