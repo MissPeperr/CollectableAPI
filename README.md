@@ -12,6 +12,6 @@ This is an API built specifically for my web app [CollectAble](https://github.co
  1. Run server: `python manage.py runserver`
 
 ### Add some dummy data to play with:
-- `python manage.py loaddata users`
-- `python manage.py loaddata collections`
-- `python manage.py loaddata collectables`
+- `python manage.py loaddata users.json`
+- `python manage.py loaddata collections.json`
+- `python manage.py loaddata collectables.json`
